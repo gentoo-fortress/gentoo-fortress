@@ -1,5 +1,5 @@
-[anarchy-overlay]
+[anarchy]
 location = /usr/local/portage/anarchy-overlay/
 sync-type = git
-sync-uri = git+ssh://git@git.gentoo.org/dev/anarchy.git
+sync-uri = https://anongit.gentoo.org/git/dev/anarchy.git
 auto-sync = Yes
